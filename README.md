@@ -4,4 +4,4 @@ Program change polish letters to cyrillic.
 
 Fast and easy tool when learning Russian language.
 
-Run by terminal: python translator_PL_RU.py
+Run by terminal: python translatorPL_RU.py
